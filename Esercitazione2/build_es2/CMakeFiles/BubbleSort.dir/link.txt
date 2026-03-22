@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/BubbleSort.dir/link.d CMakeFiles/BubbleSort.dir/bubblesort.cpp.o -o BubbleSort
